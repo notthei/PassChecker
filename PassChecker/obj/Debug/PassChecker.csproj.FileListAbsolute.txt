@@ -1,0 +1,10 @@
+C:\notthei\i_need_u\PassChecker\PassChecker\bin\Debug\PassChecker.exe.config
+C:\notthei\i_need_u\PassChecker\PassChecker\bin\Debug\PassChecker.exe
+C:\notthei\i_need_u\PassChecker\PassChecker\bin\Debug\PassChecker.pdb
+C:\notthei\i_need_u\PassChecker\PassChecker\obj\Debug\PassChecker.csproj.AssemblyReference.cache
+C:\notthei\i_need_u\PassChecker\PassChecker\obj\Debug\PassChecker.Properties.Resources.resources
+C:\notthei\i_need_u\PassChecker\PassChecker\obj\Debug\PassChecker.csproj.GenerateResource.cache
+C:\notthei\i_need_u\PassChecker\PassChecker\obj\Debug\PassChecker.csproj.CoreCompileInputs.cache
+C:\notthei\i_need_u\PassChecker\PassChecker\obj\Debug\PassChecker.exe
+C:\notthei\i_need_u\PassChecker\PassChecker\obj\Debug\PassChecker.pdb
+C:\notthei\i_need_u\PassChecker\PassChecker\obj\Debug\PassChecker.PasswordChecker.resources
